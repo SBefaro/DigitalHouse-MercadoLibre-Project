@@ -19,7 +19,7 @@ It covers most of the main HTML & CSS concepts and basic backend using express.
 
 ### Links
 
-- Live Site URL: [(https://sbefaro.github.io/FrontentMentor-QR-Component/)](https://sbefaro.github.io/FrontentMentor-QR-Component/)
+- Live Site URL: [(https://dh-ml-project.herokuapp.com/)](https://dh-ml-project.herokuapp.com/)
 
 ### Built with
 
