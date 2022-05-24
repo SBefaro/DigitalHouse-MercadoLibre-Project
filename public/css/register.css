@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --Amarillo: #EAC926;
+    --Azul: #03264C;
+    --Celeste: #1259c3;
+    --Gris-oscuro: #666;
+    --Gris-claro: #ebebeb;
+    --Verde: #39b54a;
+}
+
+body{
+    background: var(--Gris-claro);
+}
+
+header{
+    background: var(--Amarillo);
+}
+
+form p {
+    margin: 15px;
+}
+
+form label{
+    display: block;
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 10px 0;
+}
+
+form input{
+    border: none;
+    border-radius: 5px;
+}
+
+form button{
+    margin: 15px;
+}
+
