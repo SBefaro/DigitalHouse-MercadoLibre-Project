@@ -14,9 +14,13 @@
 }
 
 body{
-    background: var(--Amarillo);
+    background: var(--Gris-claro);
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
+}
+
+header{
+    background: var(--Amarillo);
 }
 
 .header__container{
@@ -55,8 +59,6 @@ body{
 }
 
 
-
-
 .header__promo{
     text-align: center;
     padding: 10px;
@@ -90,9 +92,6 @@ header ul {
     font-size: 20px;
 }
 
-.body__banner{
-    margin-top: 20px;
-}
 
 .body__banner > img{
     display: block;
@@ -100,14 +99,15 @@ header ul {
 
 main{
     background: var(--Gris-claro);
+    width: 90%;
+    margin: 0 auto;
 }
 
 main section{
-    width: 90%;
-    margin: 0 auto;
     display: flex;
     flex-flow: wrap;
     justify-content: space-between;
+    align-items: flex-start;
 }
 
 main article{
