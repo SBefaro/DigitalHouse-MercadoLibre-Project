@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# DigitalHouse - MercadoLibre Project
 
 This is a project made for Digital House Full Stack Developer course. 
 It covers most of the main HTML & CSS concepts and basic backend using express.
